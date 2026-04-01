@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django projects<br>👯 I’m looking to collaborate on C, kotlin, django and web projects(HTML, CSS And Javascript)<br>🤝 I’m looking for help with learning C and its applications<br>🌱 I’m currently learning C<br>💬 Ask me about anything coding related<br>⚡ 
+🔭 I’m currently working on Django projects<br>👯 I’m looking to collaborate on C, kotlin, django and web projects(HTML, CSS And Javascript)<br>🤝 conversant in C and C++<br>🌱 I’m currently learning cloud technology<br>💬 Ask me about anything coding related<br>⚡ 
 
 
 # 💻 Tech Stack:
